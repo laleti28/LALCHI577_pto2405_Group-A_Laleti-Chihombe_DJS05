@@ -1,0 +1,2 @@
+I  defined the initial state (initialState) with a tally property set to 0, i added add , subtract and reset as my value strings . I created a store function which  returns an object with three methods: getState, dispatch, and subscribe
+I implemented Reducer Function that takes the current state and an action as arguments,then i tested four user stories by dispatching actions and verifying the updated states. The thing that i struggled with was brainstorming my code.
